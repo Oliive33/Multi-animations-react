@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Multi-animations-react/static/css/main.5bf5dea6.chunk.css",
+    "main.js": "/Multi-animations-react/static/js/main.c1e6f501.chunk.js",
+    "main.js.map": "/Multi-animations-react/static/js/main.c1e6f501.chunk.js.map",
+    "runtime-main.js": "/Multi-animations-react/static/js/runtime-main.f5d18e31.js",
+    "runtime-main.js.map": "/Multi-animations-react/static/js/runtime-main.f5d18e31.js.map",
+    "static/js/2.a2958e4c.chunk.js": "/Multi-animations-react/static/js/2.a2958e4c.chunk.js",
+    "static/js/2.a2958e4c.chunk.js.map": "/Multi-animations-react/static/js/2.a2958e4c.chunk.js.map",
+    "index.html": "/Multi-animations-react/index.html",
+    "static/css/main.5bf5dea6.chunk.css.map": "/Multi-animations-react/static/css/main.5bf5dea6.chunk.css.map",
+    "static/js/2.a2958e4c.chunk.js.LICENSE.txt": "/Multi-animations-react/static/js/2.a2958e4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5d18e31.js",
+    "static/js/2.a2958e4c.chunk.js",
+    "static/css/main.5bf5dea6.chunk.css",
+    "static/js/main.c1e6f501.chunk.js"
+  ]
+}
